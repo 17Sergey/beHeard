@@ -1,0 +1,13 @@
+
+.status {
+    margin-bottom: 20px;
+}
+
+.status span{
+    font-weight: bold;
+}
+
+.status input[type="text"] {
+    font-size: 16px;
+    padding: 3px 5px;
+}

@@ -1,0 +1,24 @@
+.item {
+    margin: 0;
+    padding: 0;
+}
+.item a{
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    padding: 5px;
+    margin: 0;
+    line-height: 120%;
+}
+
+.item a.active {
+    color: gold;
+}
+
+.item:last-child a{
+    padding-top: 25px;
+}
+
+.red_bottom {
+    border-bottom: 3px solid red;
+}

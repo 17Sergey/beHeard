@@ -1,0 +1,22 @@
+.newPost {
+    display: flex;
+    flex-direction: column;
+}
+
+.newPostTextarea {
+    background-color: #eee;
+    width: 100%;
+    padding: 10px;
+    border: none;
+    outline: none;
+    font-family: inherit;
+}
+
+.btn {
+    margin-top: 10px;
+    background-color: #46b253;
+    color: #fff;
+    border: none;
+    padding: 5px 35px;
+    align-self: end;
+}
